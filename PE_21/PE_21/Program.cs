@@ -13,6 +13,7 @@
  */
 using System;
 using System.Diagnostics;	//To measure computation time
+using MathHelp;
 
 namespace PE_21
 {
@@ -23,7 +24,7 @@ namespace PE_21
 			Stopwatch stopwatch = Stopwatch.StartNew();
 			const int limit = 10000;
 
-			var math = new Math();
+			var math = new MathHelp.Math();
 			var value1 = 0;
 			var value2 = 0;
 			var answer = 0;
@@ -39,7 +40,6 @@ namespace PE_21
 				}
 			}
 			stopwatch.Stop();
-
 			Console.WriteLine(stopwatch.ElapsedMilliseconds);
 			Console.WriteLine (answer);
 		}

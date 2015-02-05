@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PE_21
+namespace MathHelp
 {
 	public class Math
 	{

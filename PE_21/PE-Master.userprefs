@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="PE_21/PE_21.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PE_21/Program.cs">
+    <Files>
+      <File FileName="PE_21/Program.cs" Line="4" Column="4" />
+      <File FileName="Math.cs" Line="19" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -3,6 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE_21", "PE_21\PE_21.csproj", "{2CB0E177-F6F7-4C8F-BF15-70FEC8DB8E79}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9EA887CD-1FAE-4E68-9F49-615DA7C988CF}"
+	ProjectSection(SolutionItems) = preProject
+		Math.cs = Math.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE_23", "..\PE_23\PE_23\PE_23.csproj", "{7D64AF51-CF17-4236-A150-1415F8470329}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +20,11 @@ Global
 		{2CB0E177-F6F7-4C8F-BF15-70FEC8DB8E79}.Debug|x86.Build.0 = Debug|x86
 		{2CB0E177-F6F7-4C8F-BF15-70FEC8DB8E79}.Release|x86.ActiveCfg = Release|x86
 		{2CB0E177-F6F7-4C8F-BF15-70FEC8DB8E79}.Release|x86.Build.0 = Release|x86
+		{7D64AF51-CF17-4236-A150-1415F8470329}.Debug|x86.ActiveCfg = Debug|x86
+		{7D64AF51-CF17-4236-A150-1415F8470329}.Debug|x86.Build.0 = Debug|x86
+		{7D64AF51-CF17-4236-A150-1415F8470329}.Release|x86.ActiveCfg = Release|x86
+		{7D64AF51-CF17-4236-A150-1415F8470329}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
